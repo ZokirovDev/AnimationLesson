@@ -1,4 +1,4 @@
-package uz.gita.animationlesson.navigator
+package uz.gita.animationlesson.presentatsion.navigator
 
 import androidx.navigation.NavController
 import kotlinx.coroutines.flow.Flow

@@ -1,4 +1,4 @@
-package uz.gita.animationlesson.navigator
+package uz.gita.animationlesson.presentatsion.navigator
 
 import kotlinx.coroutines.flow.MutableSharedFlow
 import javax.inject.Inject

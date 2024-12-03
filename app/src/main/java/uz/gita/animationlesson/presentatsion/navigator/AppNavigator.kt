@@ -1,4 +1,4 @@
-package uz.gita.animationlesson.navigator
+package uz.gita.animationlesson.presentatsion.navigator
 
 interface AppNavigator {
     suspend fun navigateTo(id: Int)

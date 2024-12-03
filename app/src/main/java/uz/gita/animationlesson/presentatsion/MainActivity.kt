@@ -1,4 +1,4 @@
-package uz.gita.animationlesson
+package uz.gita.animationlesson.presentatsion
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
@@ -11,7 +11,8 @@ import androidx.navigation.fragment.NavHostFragment
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
-import uz.gita.animationlesson.navigator.AppNavigationHandler
+import uz.gita.animationlesson.R
+import uz.gita.animationlesson.presentatsion.navigator.AppNavigationHandler
 import javax.inject.Inject
 
 @AndroidEntryPoint

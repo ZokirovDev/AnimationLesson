@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/mainScreen"
-        android:name="uz.gita.animationlesson.presentatsion.MainScreen"
+        android:name="uz.gita.animationlesson.presentatsion.screens.main.MainScreen"
         android:label="screen_main"
         tools:layout="@layout/screen_main" />
 </navigation>
